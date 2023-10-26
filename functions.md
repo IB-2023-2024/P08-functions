@@ -1,4 +1,4 @@
-# Práctica 08. Funciones. CMake.
+# Práctica 08. Funciones. GH Classroom. Doxygen.
 
 # Factor de ponderación: 7
 
