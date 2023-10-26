@@ -46,7 +46,7 @@ El enlace de invitación a la tarea que se le comunicará tiene una apariencia s
 `https://classroom.github.com/a/uNbth9vD`
 Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
 y una vez autentificada/o le llevará a una pantalla
-[como esta](https://raw.githubusercontent.com/IB-2022-2023/P06-alternatives-iterations/main/join-the-classroom-22-23.png?token=GHSAT0AAAAAAB2KIDMDGVFSGV5ZPKCEIPJQY2WOHQQ)
+[como esta](https://github.com/IB-2023-2024/P08-functions/blob/main/join.png?raw=true)
 en la que se le solicitará que se una a la "*classroom*" IB-2022-2023.
 Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
 A continuación se le solicitará que "Acepte la tarea Practica-Nombre"
@@ -75,7 +75,7 @@ Ese mismo enlace es el que ha de utilizar para realizar una copia local (clone) 
 virtual y comenzar a trabajar en los ejercicios de la práctica:
 
 ```
-git clone https://github.com/IB-2022-2023/P06-alternatives-iterations <DirectorioLocal>
+git clone https://github.com/IB-2023-2024/P08-functions <DirectorioLocal>
 ```
 
 ### Doxygen
