@@ -47,7 +47,7 @@ El enlace de invitación a la tarea que se le comunicará tiene una apariencia s
 Si lo introduce en un navegador, se le solicitará que se autentifique en su cuenta de GitHub,
 y una vez autentificada/o le llevará a una pantalla
 [como esta](https://github.com/IB-2023-2024/P08-functions/blob/main/join.png?raw=true)
-en la que se le solicitará que se una a la "*classroom*" IB-2022-2023.
+en la que se le solicitará que se una a la "*classroom*" IB-2023-2024.
 Para ello ha de seleccionar su nombre de la lista de identificadores (*Identifiers*) que figura en esa página.
 A continuación se le solicitará que "Acepte la tarea Practica-Nombre"
 Habrá una tarea asociada con cada una de las prácticas de la asignatura.
